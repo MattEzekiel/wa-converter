@@ -45,7 +45,7 @@ pnpm add whatsapp-conveter
 ## Usage
 ### Import 
 ````ts
-import WA from 'wa-converter';
+import formatWhatsAppUrl from 'wa-converter';
 ````
 
 ### Add to your code
