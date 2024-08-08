@@ -1,6 +1,6 @@
 {
   "name": "whatsapp-conveter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Convert number to whatsapp number and add some descriptión to your message",
   "main": "index.js",
   "scripts": {
