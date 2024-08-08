@@ -1,0 +1,23 @@
+{
+  "name": "whatsapp-conveter",
+  "version": "0.0.1",
+  "description": "Convert number to whatsapp number and add some descriptión to your message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wa.me, whatsapp",
+    "number",
+    "tel",
+    "whatsapp converter",
+    "WhatsApp phone number",
+    "whatsapp formatter",
+    "whatsapp number formatter"
+  ],
+  "author": "Matías Bubello",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}

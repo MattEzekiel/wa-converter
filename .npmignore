@@ -1,0 +1,9 @@
+.github/
+node_modules/
+test/
+coverage/
+*.log
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+LICENCE.md
+README.md
